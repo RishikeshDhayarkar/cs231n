@@ -1,4 +1,4 @@
-# cs231n
+# CS231n: Convolutional Neural Networks for Visual Recognition
 Assignment solutions for Computer vision course at Stanford(Spring 2019). All solutions are pytorch implementations. Tensorflow versions will be implemented soon. 
 Complete course content can be found [here](http://cs231n.stanford.edu/2019/). 
 Video lectures are available on YouTube - [Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk), [Winter 2016](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
