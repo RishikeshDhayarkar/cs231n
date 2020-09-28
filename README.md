@@ -19,7 +19,7 @@ Video lectures are available on YouTube - [Spring 2017](https://www.youtube.com/
 
 ### Assignment 3 ###
 * [Q1](https://github.com/RishikeshDhayarkar/cs231n/blob/master/assignments/assignment3/RNN_Captioning.ipynb) - Image Captioning with Vanilla RNNs
-* [Q2](https://github.com/RishikeshDhayarkar/cs231n/blob/master/assignments/assignment3/Generative_Adversarial_Networks_PyTorch.ipynb) - Image Captioning with LSTMs
+* [Q2](https://github.com/RishikeshDhayarkar/cs231n/blob/master/assignments/assignment3/LSTM_Captioning.ipynb) - Image Captioning with LSTMs
 * [Q3](https://github.com/RishikeshDhayarkar/cs231n/blob/master/assignments/assignment3/NetworkVisualization-PyTorch.ipynb) - Network Visualization: Saliency maps, Class Visualization, and Fooling Images
 * [Q4](https://github.com/RishikeshDhayarkar/cs231n/blob/master/assignments/assignment3/StyleTransfer-PyTorch.ipynb) - Style Transfer
 * [Q5](https://github.com/RishikeshDhayarkar/cs231n/blob/master/assignments/assignment3/Generative_Adversarial_Networks_PyTorch.ipynb) - Generative Adversarial Networks
